@@ -92,7 +92,7 @@
   "amount": "数量",
   "Make Transfer": "转账",
   "Add account": "新建账号",
-  "Restore JSON": "备份JSON文件",
+  "Restore JSON": "通过JSON文件导入",
   "Add via Qr": "通过二维码新建",
   "Query Ledger": "查询分类帐",
   "filter by tags": "过滤",

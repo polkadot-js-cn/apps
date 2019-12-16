@@ -20,7 +20,7 @@ interface Props extends I18nProps {
   withShort?: boolean;
 }
 
-const BASE = 'https://polkascan.io/pre/';
+const BASE = 'https://kusama.subscan.io';
 
 const CHAINS: Record<string, string> = {
   Alexander: 'alexander',
@@ -31,9 +31,9 @@ const CHAINS: Record<string, string> = {
 };
 
 const TYPES: Record<string, string> = {
-  address: '/module/account/',
-  block: '/system/block/',
-  extrinsic: '/system/extrinsic/'
+  address: '/account/',
+  block: '/block/',
+  extrinsic: '/extrinsic/'
 };
 
 function LinkPolkascan ({ className, data, t, type, withShort }: Props): React.ReactElement<Props> | null {
@@ -48,13 +48,13 @@ function LinkPolkascan ({ className, data, t, type, withShort }: Props): React.R
   return (
     <div className={`${className} ${withShort ? 'withShort' : ''}`}>
       <a
-        href={`${BASE}${extChain}${extType}${data}`}
+        href={`${BASE}${extType}${data}`}
         rel='noopener noreferrer'
         target='_blank'
       >
         {withShort
           ? <Icon name='external' />
-          : t('View this {{type}} on Polkascan.io', { replace: { type } })
+          : t('View this {{type}} on subscan.io', { replace: { type } })
         }
       </a>
     </div>

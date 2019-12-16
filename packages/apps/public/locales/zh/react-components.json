@@ -45,7 +45,7 @@
   "click to select or drag and drop the file here": "单击以在此处选择或拖放文件",
   "{{name}} ({{size}} bytes)": "{{name}} ({{size}} 字节)",
   "Positive number": "请输入正数",
-  "View this {{type}} on Polkascan.io": "在 Polkascan.io 中查看 {{type}} ",
+  "View this {{type}} on Polkascan.io": "在 subscan.io 中查看 {{type}} ",
   "No documentation provided": "未提供文档",
   "Call this message": "调用此信息",
   "Deploy with this constructor": "使用此构造函数部署",
