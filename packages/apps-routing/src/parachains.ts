@@ -15,7 +15,7 @@ export default ([
       ]
     },
     i18n: {
-      defaultValue: 'Parachains'
+      defaultValue: '平行链'
     },
     icon: 'chain',
     name: 'parachains'

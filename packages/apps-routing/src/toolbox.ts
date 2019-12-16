@@ -13,7 +13,7 @@ export default ([
       needsApi: []
     },
     i18n: {
-      defaultValue: 'Toolbox'
+      defaultValue: '工具'
     },
     icon: 'configure',
     name: 'toolbox'

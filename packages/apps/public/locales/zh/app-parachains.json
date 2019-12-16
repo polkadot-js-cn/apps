@@ -1,0 +1,11 @@
+{
+  "Parachains overview": "平行链概述",
+  "the last heads of this parachain": "这条平行链的最新头信息",
+  "heads": "头信息",
+  "<unknown>": "<未知>",
+  "the relay dispatch queue size": "中继调度队列大小",
+  "relay queue": "中继队列",
+  "no deployed parachains": "没有部署的平行链",
+  "parachains": "平行链",
+  "next id": "下一个ID"
+}

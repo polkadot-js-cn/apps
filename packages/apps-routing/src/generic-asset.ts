@@ -17,7 +17,7 @@ export default ([
       ]
     },
     i18n: {
-      defaultValue: 'Generic Asset'
+      defaultValue: '通用资产'
     },
     icon: 'cubes',
     name: 'generic-asset'

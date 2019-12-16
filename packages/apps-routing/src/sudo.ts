@@ -17,7 +17,7 @@ export default ([
       needsSudo: true
     },
     i18n: {
-      defaultValue: 'Sudo'
+      defaultValue: '超级权限'
     },
     icon: 'unlock',
     name: 'sudo'

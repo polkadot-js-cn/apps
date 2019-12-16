@@ -20,7 +20,7 @@ module.exports = {
     trans: {
       component: 'Trans'
     },
-    lngs: ['en'],
+    lngs: ['en','zh'],
     defaultLng: 'en',
     ns: [
       'app-123code',

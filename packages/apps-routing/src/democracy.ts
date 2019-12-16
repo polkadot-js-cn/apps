@@ -16,7 +16,7 @@ export default ([
       ]
     },
     i18n: {
-      defaultValue: 'Democracy'
+      defaultValue: '民主'
     },
     icon: 'calendar check',
     name: 'democracy'

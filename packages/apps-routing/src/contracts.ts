@@ -19,7 +19,7 @@ export default ([
       ]
     },
     i18n: {
-      defaultValue: 'Contracts'
+      defaultValue: '合约'
     },
     icon: 'compress',
     name: 'contracts'

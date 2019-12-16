@@ -27,7 +27,7 @@ export default function CryptoType ({ accountId, className, label = '' }: Props)
       if (current) {
         setType(
           current.meta.isInjected
-            ? 'injected'
+            ? '插件'
             : current.meta.isHardware
               ? current.meta.hardwareType || 'hardware'
               : current.meta.isExternal

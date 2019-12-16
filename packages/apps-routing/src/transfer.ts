@@ -19,7 +19,7 @@ export default ([
       ]
     },
     i18n: {
-      defaultValue: 'Transfer'
+      defaultValue: '转账'
     },
     icon: 'send',
     name: 'transfer'

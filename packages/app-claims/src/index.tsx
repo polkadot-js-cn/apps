@@ -111,7 +111,7 @@ class ClaimsApp extends TxModal<Props, State> {
       <main>
         <header />
         <h1>
-          <Trans>claim your <em>{TokenUnit.abbr}</em> tokens</Trans>
+          <Trans>申请你的 <em>{TokenUnit.abbr}</em> tokens</Trans>
         </h1>
         <Columar>
           <Column>

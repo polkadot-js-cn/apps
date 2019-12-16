@@ -28,12 +28,13 @@ i18n
     backend: {
       loadPath: 'locales/{{lng}}/{{ns}}.json'
     },
+    lng: 'zh',
     debug: false,
     defaultNS: 'ui',
     detection: {
       order: ['i18nLangDetector', 'navigator']
     },
-    fallbackLng: false,
+    fallbackLng: ['zh'],
     interpolation: {
       escapeValue: false
     },

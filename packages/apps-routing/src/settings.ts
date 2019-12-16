@@ -11,7 +11,7 @@ export default ([
     Component: Settings,
     display: {},
     i18n: {
-      defaultValue: 'Settings'
+      defaultValue: '设置'
     },
     icon: 'settings',
     name: 'settings'

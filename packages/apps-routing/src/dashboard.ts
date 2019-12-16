@@ -13,7 +13,7 @@ export default ([
       isHidden: true
     },
     i18n: {
-      defaultValue: 'Dashboard'
+      defaultValue: '仪表板'
     },
     icon: 'th',
     name: 'dashboard'

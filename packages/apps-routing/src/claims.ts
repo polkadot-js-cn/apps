@@ -15,7 +15,7 @@ export default ([
       ]
     },
     i18n: {
-      defaultValue: 'Claim Tokens'
+      defaultValue: '申请Token'
     },
     icon: 'star',
     name: 'claims'

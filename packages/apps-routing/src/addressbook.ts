@@ -13,7 +13,7 @@ export default ([
       needsApi: []
     },
     i18n: {
-      defaultValue: 'Address book'
+      defaultValue: '通讯录'
     },
     icon: 'address book',
     name: 'addressbook'

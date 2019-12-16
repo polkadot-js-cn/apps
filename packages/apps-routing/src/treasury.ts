@@ -17,7 +17,7 @@ export default ([
       ]
     },
     i18n: {
-      defaultValue: 'Treasury'
+      defaultValue: '金库'
     },
     icon: 'gem',
     name: 'treasury'

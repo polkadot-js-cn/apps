@@ -13,7 +13,7 @@ export default ([
       needsApi: []
     },
     i18n: {
-      defaultValue: 'Chain state'
+      defaultValue: '存储'
     },
     icon: 'database',
     name: 'chainstate'

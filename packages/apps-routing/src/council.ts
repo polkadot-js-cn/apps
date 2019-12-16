@@ -19,7 +19,7 @@ export default ([
       ]
     },
     i18n: {
-      defaultValue: 'Council'
+      defaultValue: '议会'
     },
     icon: 'building',
     name: 'council'

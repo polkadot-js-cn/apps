@@ -13,7 +13,7 @@ export default ([
       needsApi: []
     },
     i18n: {
-      defaultValue: 'Explorer'
+      defaultValue: '浏览器'
     },
     icon: 'braille',
     name: 'explorer'

@@ -1,0 +1,10 @@
+{
+  "Sudo access": "Sudo通道",
+  "Set sudo key": "设置 sudo key",
+  "You do not have access to the current sudo key": "您无权访问当前的sudo密钥",
+  "sudo key": "sudo 密钥",
+  "Reassign": "重新分配",
+  "You will no longer have sudo access": "您将不再具有sudo访问权限",
+  "submit the following change": "提交以下更改",
+  "Submit Sudo": "提交 Sudo"
+}

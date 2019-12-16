@@ -14,7 +14,7 @@ export default ([
       needsApi: []
     },
     i18n: {
-      defaultValue: 'Extrinsics'
+      defaultValue: '交易'
     },
     icon: 'sync',
     name: 'extrinsics'
