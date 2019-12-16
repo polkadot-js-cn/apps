@@ -69,5 +69,6 @@
   "Nay, I do not approve": "不，我拒绝",
   "Vote on council proposal": "投票通过理事会提案",
   "Vote on proposal": "为提议投票",
-  "Vote with account": "用账号投票"
+  "Vote with account": "用账号投票",
+  "View this {{type}} on subscan.io": "在subscan.io上查看此{{type}}"
 }
