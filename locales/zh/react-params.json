@@ -1,0 +1,18 @@
+{
+  "include value": "包含值",
+  "exclude value": "排除值",
+  "display name": "显示名称",
+  "legal name": "合法名称",
+  "email": "邮箱",
+  "web": "web",
+  "riot name": "防暴名称",
+  "sha2 image hash": "sha2 image hash",
+  "0x...": "0x...",
+  "pgp hash": "pgp hash",
+  "{{count}} key/value pairs encoded for submission": "{{count}} 个编码为提交的键/值对",
+  "include option": "包含选项",
+  "exclude option": "排除选项",
+  "<empty>": "<empty>",
+  "Add item": "添加项目",
+  "Remove item": "删除项目"
+}

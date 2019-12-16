@@ -1,0 +1,21 @@
+{
+  "address forgotten": "地址遗忘",
+  "no tags": "暂无标签",
+  "deposit": "存入",
+  "Send funds to this address": "发送地址",
+  "Forget this address": "移除账号",
+  "My contacts": "我的通讯录",
+  "address edited": "地址已更新",
+  "address created": "地址已创建",
+  "Add an address": "新增地址",
+  "Paste here the address of the contact you want to add to your address book.": "在此处粘贴要添加到通讯录中的联系人的地址。",
+  "address": "地址",
+  "new address": "新地址",
+  "Type the name of your contact. This name will be used across all the apps. It can be edited later on.": "输入您的联系人姓名。 此名称将在所有应用程序中使用。 以后可以对其进行编辑。",
+  "name": "名称",
+  "Cancel": "取消",
+  "Save": "保存",
+  "Add contact": "新增通讯录",
+  "filter by tags": "过滤",
+  "no contracts yet, add an existing contact": "尚无联系人，请添加现有联系人"
+}

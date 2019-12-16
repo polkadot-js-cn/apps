@@ -1,0 +1,15 @@
+{
+  "Your Ethereum account": "您的以太坊账户",
+  "has a valid claim for": "对拥有有效的权限",
+  "does not appear to have a valid claim. Please double check that you have signed the transaction correctly on the correct ETH account.": "似乎没有有效的申请。 请再次检查您是否已在正确的ETH帐户上正确签署了交易。",
+  "Redeem": "赎回",
+  "1. Select your {{chain}} account": "1. 选择在 {{chain}} 的账号",
+  "The account you want to claim to.": "您要申请的帐户.",
+  "claim to account": "要求帐户",
+  "Continue": "下一步",
+  "2. Sign ETH transaction": "2. 签名ETH交易",
+  "copied": "已经复制",
+  "click to copy": "复制",
+  "Copy the above string and sign an Ethereum transaction with the account you used during the pre-sale in the wallet of your choice, using the string as the payload, and then paste the transaction signature object below": "复制上面的字符串，并使用您在预售过程中使用的帐户在您选择的钱包中用以太坊交易签名，并使用该字符串作为有效负载，然后将交易签名对象粘贴到下面",
+  "Confirm claim": "确认申请"
+}
