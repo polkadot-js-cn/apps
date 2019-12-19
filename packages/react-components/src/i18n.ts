@@ -28,7 +28,7 @@ i18n
     backend: {
       loadPath: 'locales/{{lng}}/{{ns}}.json'
     },
-    lng: 'zh',
+    // lng: 'zh',
     debug: false,
     defaultNS: 'ui',
     detection: {
