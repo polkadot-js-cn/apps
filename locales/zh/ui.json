@@ -657,5 +657,6 @@
   "Tip (optional)": "",
   "wrong password": "",
   "sending from my account": "",
-  "unlock account with password": ""
+  "unlock account with password": "",
+  "View this {{type}} on subscan.io": ""
 }
